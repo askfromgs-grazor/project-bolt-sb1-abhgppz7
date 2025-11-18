@@ -1,3 +1,6 @@
+# Ignore large media files that shouldn't be stored in git
+/public/vision.mp4
+
 logs
 *.log
 npm-debug.log*
